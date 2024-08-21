@@ -4,6 +4,10 @@ This is a simple NPC generator for VTM5E. It uses a Python GUI to generate an NP
 The names are determined via a pull from BehindTheName.com. As such you will need a valid API key and to place it inside of the .env file.
 The stats are pulled from the Schrecknet JSON files. This is an otherwise unrelated project but I've created a fork so the original authors are given proper attribution.
 
+## Example
+
+![](https://github.com/wdeltamyk/SchreckNet_NPCGen/blob/main/example/example.gif)
+
 ## Names
 
 The names that can be pulled include, ancient, modern and mythological/religious.
