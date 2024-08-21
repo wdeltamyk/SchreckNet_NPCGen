@@ -26,13 +26,14 @@ A first name will always be made, a last name will be attempted but should the c
 
 ## Considerations
 
-1. Gender is determined randomly for now, I will be including an option to set this for more reliable NPC generation.
+1. Gender is determined randomly for now, I will be including an option to set this for more reliable NPC generation.[^5]
 2. The skills are distributed randomly, attributes are distributed based on the option for Skill Focus you choose, this is an unintended bug that I'll be fixing shortly.
 
 [^1]: Generation 2 has been left as an option despite no second generation vampires existing as per the World of Darkness lore, this is solely for storytellers who wish to ignore the lore and it's easy enough to skip over if you're sticking to the lore. Generation 1 has also been included if you wish to include Caine as an NPC. As of right now only Generation 16 to 8 make a difference. I will be adding more benefits for lower generations and for Generation 1-3, will be adding a default blood potency of 10 for these options. I will also be adding an age option for the NPCs, the longer you've been a kindred the higher your blood potency will generate toward, right now it's a random value.
 [^2]: The Black Hand is, in the lore, a defunct sect. I am running my game in a way that the Black Hand have been reformed, if you're wanting to stick strictly to a modern setting that doesn't alter the lore, ignore this option.
 [^3]: Ancient NPCs will have nearly perfect stats, and will have nearly perfect mastery of their clan disciplines. These will be Methuselahs or kindred who have devoted themselves entirely to mastery through various magics (blood magic, oblivion ceremonies) or diablerie of lower generation vampires. Not quiet perfection but close, and more or less unkillable by players, at least solo and definitely in their earlier levels.
 [^4]: Mythical NPCs, Antediluvians, Second Generation, Caine. Perfect stats, perfect mastery of their clan disciplines, and are unkillable by players (presumably).
+[^5]: Gender is solely m/f, for masculine and feminine as that's how Behind the Name assigns them, there is also a unisex option which I'll include eventually but the point of this footnote is to say that the sex selection will be limited, this is just a utlitarian function and not a political one.
 
 ## Installation
 
